@@ -150,3 +150,6 @@ ul {
     transform: rotate(360deg);
   }
 }
+.FilterHogs{
+  margin-bottom: 3rem !important;
+} 
