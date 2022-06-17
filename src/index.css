@@ -140,6 +140,24 @@ ul {
   clear: both;
 }
 
+#image{
+  float: center;
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+}
+
+#selectionDiv{
+  padding-bottom: 20px;
+}
+
+#selct{
+  padding: 4px;
+}
+
+#sort{
+  padding-bottom: 40px;
+}
 
 @keyframes App-logo-spin {
   from {
@@ -150,6 +168,3 @@ ul {
     transform: rotate(360deg);
   }
 }
-.FilterHogs{
-  margin-bottom: 3rem !important;
-} 
